@@ -3,5 +3,4 @@
 
 **About Me** 👨‍💻
 
-- 4th year undergraduate studying International Affairs and Computer Science
-- Passionate about Cybersecurity, Software Engineering, and just plain ol' tinkering around :)
+- I like to make things
